@@ -2,6 +2,6 @@
 - 🔪[Making a horror visual novel.](https://moondisorder.com/portfolio/rubbleandrust/)
 - 📝Working in Ren'Py. Hoping to improve in Python someday. 
 - 🐙Seeking dedicated musicians and sound designers to collaborate with.
-- 📧[Contact me](https://moondisorder.com/contact/)
+- 📧[You can contact me here](https://moondisorder.com/contact/)
 - 🥀she/her
 - 🦘🦌 Fun fact: I'm American + Australian, yes both.
