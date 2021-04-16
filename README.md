@@ -1,7 +1,7 @@
-- 🐍Vela. Writer, artist and n00b indie game dev.
+- 🐍Vela. Writer, artist and solo game dev.
 - 🔪[Making a horror visual novel.](https://moondisorder.com/portfolio/rubbleandrust/)
-- 📝Working in Ren'Py. Hoping to improve in Python someday. 
-- 🐙Seeking dedicated musicians and sound designers to collaborate with.
-- 📧[You can contact me here](https://moondisorder.com/contact/)
+- 📝Working in Ren'Py. Hoping to improve in Python and expand sort of games I can make.
+- 🐙Seeking dedicated musicians and sound designers to collaborate with. 
+- 📧[You can contact me here.](https://moondisorder.com/contact/)
 - 🥀she/her
 - 🦘🦌 Fun fact: I'm American + Australian, yes both.
