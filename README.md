@@ -1,5 +1,6 @@
 - 🐍Vela. Writer, artist + solo game dev.
 - 🔪Making a [horror visual novel.](https://moondisorder.itch.io/)
 - 🔑Working in Ren'Py, hoping to improve in Python.
+- 🎸Seeking musicians + sound designers. 
 - 🥀she/her
 - 🦘🦌 Fun fact: I'm American + Australian, yes both.
