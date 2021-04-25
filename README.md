@@ -1,6 +1,6 @@
 - 🐍Vela. 
 - 🥀she/her. Writer, artist + solo game dev.
 - 🔪Making a [horror visual novel.](https://moondisorder.itch.io/)
-- 🔑Working in Ren'Py, hoping to improve in Python. Also GBStudio and GameMaker Studio are fun.
+- 🔑Ren'Py + GameMaker Studio. Just wanna learn and improve.
 - 🎸Seeking musicians + sound designers. 
 - 🦘🦌 Fun fact: I'm American + Australian, yes both.
