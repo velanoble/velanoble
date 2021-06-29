@@ -2,8 +2,8 @@
 -  🦘🦌Aus+USA blend.
 - 🍄 Writer + artist making [visual novels.](https://moondisorder.com/portfolio/rubbleandrust/) 
 - 🐍**RubblenRust is a horror and coming-of-age story based in South Australia.**
-- 🔪It is based on my true story of my <em>repeated</em> experiences with psychosis, mental health and its stigmas. I hope my story offers thrills as well as providing inspiration for people who have been through some of the toughest things the human brain has to offer.
-- **I hope I can make people feel loved,strong!
+- 🔪It is based on my true story of my <em>repeated</em> experiences with psychosis, mental health and its stigmas. I hope my story offers thrills as well as providing inspiration and strength for people who have been through some of the toughest things the human brain has to offer.
+- I'm making the game I wish I had coming out of the hospital. **I hope I can make people feel loved, strong
  and beautiful for their trauma.**
 - 🔑Seeking music + sound collab.
 - velanoble{at}gmail{dot}com
