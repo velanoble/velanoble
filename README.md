@@ -1,6 +1,7 @@
-- 🔮Vela 
+- 🔮Vela. It's pronounced: 'vell-ah'
 - 🍄 Writer + artist making [visual novels.](https://moondisorder.com/portfolio/rubbleandrust/) 
-- 🐍RubblenRust is a horror and coming-of-age story based in South Australia. Based on true events with my experience with psychosis and its stigmas.  
+- 🐍RubblenRust is a horror and coming-of-age story based in South Australia. 
+- 🔪It is based on my true story of my experience with psychosis and its stigmas.  
 - 🔑Seeking music + sound collab.
 - 🦘🦌AUS+USA 
 - velanoble{at}gmail{dot}com
