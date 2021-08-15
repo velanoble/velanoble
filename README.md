@@ -4,7 +4,7 @@
 - It is based on my true story of my experiences with psychosis, mania and their stigmas. 
 - I am making the sort of story I wish I had coming out of the hospital.
 - Seeking music + sound collab.
-- contact velanoble{at}gmail{dot}com or discord vela#5887🔑no spam please
+- contact velanoble{at}gmail{dot}com or <strong>prefered: discord vela#5887🔑no spam please</strong
 
 ![RubblenRust_03](https://user-images.githubusercontent.com/47091951/123734296-3a73bb80-d8dc-11eb-8a66-9d42dc649b9b.gif)
 ![ani_cat](https://user-images.githubusercontent.com/47091951/127810728-b10a6a0b-f218-4af5-bfcc-eb75cc3ec81a.gif)
