@@ -1,8 +1,8 @@
 - 🦘🦌Vela.
 - Writer + artist making a [visual novel.](https://moondisorder.com/portfolio/rubbleandrust/) 
 - Rubble and Rust is a horror and coming-of-age story based in South Australia.
-- It is based on my true story of my experiences with psychosis, mania and their stigmas. 
-- I am making the sort of story I wish I had coming out of the hospital.
+- LoveSecretsGod is a short fantasy comedy about critters in love.
+- Creating works often around my experiences with Bipolar mania and Psychosis. 
 - Seeking music + sound collab.
 - contact velanoble{at}gmail{dot}com but I prefer<strong> discord vela#5887🔑no spam please</strong>
 - [my itch.io](https://moondisorder.itch.io/)
