@@ -1,6 +1,6 @@
 - 🦘🦌Vela.
-- Writer + artist making a [visual novel.](https://moondisorder.com/portfolio/rubbleandrust/) 
-- Rubble and Rust is a horror and coming-of-age story based in South Australia.
+- Writer + artist making [visual novels.](https://moondisorder.com/portfolio/rubbleandrust/) 
+- Rubble and Rust is a horror and coming-of-age story based in South Australia. It has 3+ hours reading content.
 - LoveSecretsGod is a short fantasy comedy about critters in love.
 - Creating works often around my experiences with Bipolar mania and Psychosis. 
 - Seeking music + sound collab.
