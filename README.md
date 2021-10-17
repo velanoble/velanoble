@@ -4,7 +4,7 @@
 - Creating works often around my experiences with Bipolar mania and Psychosis. 
 - Contact velanoble{at}gmail{dot}com but I prefer<strong> discord vela#5887🔑no spam please</strong>
 - [My Itch.io. This is where I post my games.](https://moondisorder.itch.io/)
-- [Seeking music + sound](https://docs.google.com/document/d/1AyMgd0xbqF9R99hUJr8qaqxkvrtnue8DnmamaEiw1TE/edit?usp=sharing), but also any sort of fun collab!
+- Seeking music + sound but also any sort of fun collab!
 
 ![lachlankiss_smol](https://user-images.githubusercontent.com/47091951/135598593-e59a7a88-ef70-448c-b9c0-fa8c5025d30c.gif)
 ![creator1_smol](https://user-images.githubusercontent.com/47091951/137230598-b1cbdbcb-959b-4c1e-94e8-da71c9fa71c6.gif)
