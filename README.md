@@ -11,4 +11,3 @@
 ![ani_cat](https://user-images.githubusercontent.com/47091951/127810728-b10a6a0b-f218-4af5-bfcc-eb75cc3ec81a.gif)
 ![ani_turtle50](https://user-images.githubusercontent.com/47091951/123736006-6fcdd880-d8df-11eb-8be0-f37228f7d6cb.gif)
 ![ani_lock50](https://user-images.githubusercontent.com/47091951/133012077-2d67ca10-a1d2-4f72-80ac-458bfc1bf427.gif)
-![moonlogo_hires_tiny](https://user-images.githubusercontent.com/47091951/137230508-97a255c4-732d-4cc9-a9d2-973a43f08a93.png)
