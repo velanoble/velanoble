@@ -1,7 +1,6 @@
 - 🦘🦌Vela.
 - Writer + artist and game dev making [visual novels.](https://moondisorder.com/portfolio/rubbleandrust/) 
 - Ren'Py mostly. Attempting to dabble in Gamemaker Studio2.
-- Creating works often around my experiences with Bipolar mania and Psychosis. 
 - Contact velanoble{at}gmail{dot}com but I prefer<strong> discord vela#5887🔑no spam please</strong>
 - [My Itch.io. This is where I post my games.](https://moondisorder.itch.io/)
 - Seeking music + sound but also any sort of fun collab!
