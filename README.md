@@ -1,6 +1,6 @@
 - 🦘🦌Vela.
-- Artist, writer and game dev [making games](https://moondisorder.com/) 
-- Ren'Py and attempting to dabble in Gamemaker Studio2.
+- Artist, writer and game dev [making games](https://moondisorder.com/).
+- Ren'Py and dabbling in Gamemaker Studio2.
 - Contact velanoble{at}gmail{dot}com but I prefer<strong> discord vela#5887🔑No spam please</strong>
 - [My Itch.io. This is where I post my games.](https://moondisorder.itch.io/)
 - Seeking music + sound but also any sort of fun collab!
