@@ -3,7 +3,7 @@
 - Ren'Py and Gamemaker Studio2.
 - Contact velanoble{at}gmail{dot}com or <strong> discord vela#5887🔑No spam please</strong>
 - [My Itch.io. This is where I post my games.](https://velanoble.itch.io/)
-- Seeking music + sound but also any sort of fun collab!
+- I don't bite, if you wanna work together!
 
 
 ![matchthreeanimals2_smol](https://user-images.githubusercontent.com/47091951/199380258-0b23e60e-dc53-41b9-b5b9-4b02dc35f8de.gif)
