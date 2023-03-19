@@ -2,7 +2,7 @@
 - Artist and game dev.
 - [https://velanoble.com/](https://velanoble.com/)
 - Ren'Py and Gamemaker Studio2.
-- Contact velanoble{at}gmail{dot}com or <strong> discord vela#5887🔑No scams/spam plz.</strong>
+- Discord: vela#5887🔑No scams/spam plz.
 - [This is where I post my games.](https://velanoble.itch.io/)
 - I don't bite. If you wanna work together, contact me through my site!
 
