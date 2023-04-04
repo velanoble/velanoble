@@ -4,8 +4,6 @@
 - Ren'Py and Gamemaker Studio2.
 - Discord: vela#5887🔑No scams/spam plz.
 - [This is where I post my games.](https://velanoble.itch.io/)
-- If you wanna work together, contact me through my site!
-
-![ani_cat](https://user-images.githubusercontent.com/47091951/127810728-b10a6a0b-f218-4af5-bfcc-eb75cc3ec81a.gif)
-![ani_turtle50](https://user-images.githubusercontent.com/47091951/123736006-6fcdd880-d8df-11eb-8be0-f37228f7d6cb.gif)
-![ani_lock50](https://user-images.githubusercontent.com/47091951/133012077-2d67ca10-a1d2-4f72-80ac-458bfc1bf427.gif)
+- If you wanna work together, contact me through my site!!
+![ani_snake_100px](https://user-images.githubusercontent.com/47091951/229734041-8b7d723c-0047-496d-aaf3-812b91f43a0a.gif)
+![ani_paint_100](https://user-images.githubusercontent.com/47091951/229734266-0c9b4404-409a-45a3-bb66-06550b0df0c1.gif)
