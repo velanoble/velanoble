@@ -1,5 +1,5 @@
 - 🦘🦌Vela. American/Aussie. Redhead.
-- Artist and game dev.
+- Artist, writer and game dev.
 - [https://velanoble.com/](https://velanoble.com/)
 - Ren'Py and Gamemaker Studio2.
 - Discord: velanoble🔑No scams/spam plz.
