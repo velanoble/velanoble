@@ -1,7 +1,6 @@
-- 🦘🦌Vela. American/Aussie. Redhead.
-- Artist, writer and game dev.
-- [https://velanoble.com/](https://velanoble.com/)
-- Ren'Py and Gamemaker Studio2.
+- Vela. American/Aussie. Redhead. Artist, writer and game dev.
+- Love Ren'Py and Gamemaker Studio2.
+- Probably not doing this right, this is just where I backup all my projects lol.
 - Discord: velanoble🔑
 - [This is where I post my games.](https://velanoble.itch.io/)
 - If you wanna work together, contact me through my site or discord!
