@@ -1,6 +1,6 @@
 - Vela.
-- Artist, writer and game dev at [Studio Leafydragon](https://www.instagram.com/studioleafydragon/)
-- Love Ren'Py and Gamemaker Studio2.
+- Artist, writer and game dev at [Leafydragon Studio](http://leafydragon.velanoble.com/).
+- I Love Ren'Py and Gamemaker Studio2!
 - Probably not doing this right, this is just where I backup all my projects lol.
 - [This is where I post my games.](https://velanoble.itch.io/)
 - If you wanna work together, contact me through my site!
