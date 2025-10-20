@@ -1,7 +1,8 @@
-- I'm Vela, an artist, writer and hobbyist game dev.
-- I love Ren'Py and Gamemaker Studio2!
-- <a href="https://velanoble.com/art/illust/berserk/index.html"><img src="https://velanoble.com/art/illust/berserk/img/berserkshrine_banner.png"></a>
-- Everyone seems to know my art is better than my GML, lol!
-- Probably not doing this right, github is just where I backup all my projects lol.
-- [Itch.io (or my site) is where I post my games.](https://velanoble.itch.io/)
-- If you wanna work together, contact me through my site!
+I'm Vela, an artist, writer and hobbyist programmer. A mum living in Adelaide, Australia. I love both Ren'Py and GameMaker Studio. 
+
+Everyone seems to know my art is better than my code, lol!
+ [Itch.io or my site is where I post my games.](https://velanoble.itch.io/)
+ 
+ If you wanna work together, contact me through my site!
+ 
+<a href="https://velanoble.com"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif"></a>
