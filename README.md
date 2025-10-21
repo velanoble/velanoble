@@ -4,7 +4,7 @@ I love both Ren'Py and GameMaker Studio. I got into those around 2021.
 My history with game dev is it was my first job ever to be hired as a concept artist. 
 But more than that job, I cherish being able to participate in the <a href="https://globalgamejam.org/users/vela-noble">GGJ most years since 2016</a>.
 
-Yes I get it, my art is better than my code. I felt fed up with trying to constantly inspire and communicate with the frosty and distant programmers I met, so I tried learning how to code myself. 
+Yes I get it, my art is better than my code. I felt fed up with barriers of managing teams for my fun projects, so I tried learning how to code by myself. 
 
 I am a storyteller by nature so am mostly into making and playing narrative-heavy games anyways, regardless of what engine I can use.
 
