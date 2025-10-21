@@ -13,6 +13,3 @@ I am a storyteller by nature so am mostly into making and playing narrative-heav
  You can't gatekeep people from gamedev or trying a skill they aren't a master at, everyone belongs making games.
  If you wanna work together, contact me through my site.
 <a href="https://velanoble.com"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif"></a>
-
-I'm trying to organise the GGJ in South Australia for 2026! Check back soon.
-![saggj_mascot_run_small](https://github.com/user-attachments/assets/3c46f8c0-6bb0-4897-9231-5f04f8a13de8)
