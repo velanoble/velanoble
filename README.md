@@ -7,8 +7,9 @@ But more than that job, I cherish being able to participate in the <a href="http
 Yes I get it, my art is better than my code. I just enjoy trying to learning code sometimes. 
 I am a storyteller by nature so am mostly into making and playing narrative-heavy games anyways, regardless of what engine I can use.
 
- [Itch.io or my site is where I post my games.](https://velanoble.itch.io/) 
+ [I try to post my games on my site, not just Itch.io.](https://velanoble.com/) 
  
- You can't gatekeep people from gamedev or trying a skill they aren't a master at, everyone belongs making games.
+ You can't gatekeep people from gamedev or trying a skill they aren't a master at. 
+ Everyone belongs making games.
  If you wanna work together, contact me through my site.
 <a href="https://velanoble.com"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif"></a>
