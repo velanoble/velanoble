@@ -1,6 +1,6 @@
 I'm Vela, an artist, writer and hobbyist game dev.
 
-Yes I get it. My art is better than my code, I love to try new rhings.
+Yes I get it. My art is better than my code, I love to try new things.
  [I try to post my games on my site, not just Itch.io.](https://velanoble.com/) 
  
  Stop gatekeeping people from gamedev. Everyone belongs making games.
