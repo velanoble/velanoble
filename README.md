@@ -6,4 +6,5 @@ Yes I get it. My art is better than my code, I love to try new things.
  Stop gatekeeping people from gamedev. Everyone belongs making games.
  
  If you have an inquiry, just contact me through my site.
+ 
 <a href="https://velanoble.com"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif"></a>
