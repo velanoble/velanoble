@@ -8,3 +8,4 @@ Yes I get it. My art is better than my code, I love to try new things.
  If you have an inquiry, just contact me through my site.
  
 <a href="https://velanoble.com"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X11OZ5RV)
