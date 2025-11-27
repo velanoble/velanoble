@@ -1,7 +1,9 @@
 I'm Vela, an artist, writer and hobbyist game dev.
 
 Yes I get it. My art is better than my code, I love to try new things.
- [I try to post my games on my site, not just Itch.io.](https://velanoble.com/) 
+
+I like to do the [global game jam](https://globalgamejam.org/users/vela-noble) every year. It's just a ritual.
+I post most my games [on my site, not just Itch.io.](https://velanoble.com/) 
  
  Stop gatekeeping people from making video games. Everyone belongs making games.
  
