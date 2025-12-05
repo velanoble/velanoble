@@ -2,11 +2,14 @@ I'm Vela, an artist, writer and hobbyist game dev.
 
 Yes I get it. My art is better than my code, I love to try new things.
 
-I like to do the [global game jam](https://globalgamejam.org/users/vela-noble) every year. It's just a ritual.
-I post most my games [on my site, not just Itch.io.](https://velanoble.com/) 
- 
  Stop gatekeeping people from making video games. Everyone belongs making games.
  
  If you have an inquiry, just contact me through my site.
- 
+
+My smaller games are also [on my site](https://velanoble.com/) but most of my massive visual novels are on Itch.io instead.
+
 <a href="https://velanoble.com"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif"></a>
+ + [Global Game Jam](https://globalgamejam.org/users/vela-noble)
+ + [Itch.io](https://velanoble.itch.io/)
+ + [Blog](https://velanoble.blogspot.com/)
+
