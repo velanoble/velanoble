@@ -6,7 +6,7 @@ If you have an inquiry, just contact me through my site.
 
 My smaller games are also [on my site](https://velanoble.com/) but most of my massive visual novels are on Itch.io instead.
 
-<a href="https://velanoble.com"><img src="https://velanoble.com/img/justwhatami26_tinyban.png" alt="vela tinyban"></a>
+<a href="https://velanoble.com"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif" alt="vela tinyban"></a>
  + [Global Game Jam](https://globalgamejam.org/users/vela-noble)
  + [Itch.io](https://velanoble.itch.io/)
  + [Blog](https://velanoble.blogspot.com/)
