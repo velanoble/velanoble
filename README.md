@@ -1,4 +1,6 @@
-I'm Vela, an artist, writer and super hobbyist coder. Interested in games, apps, web whatever cool things idk I'm justa dumb artist?
+I'm Vela. An artist and hobbyist coder. 
+
+I have an interest in game dev, web dev, all sorta cool things.
 
 Yes I get it, my art is better than my code, but I love to try new things. Stop gatekeeping people from trying new things. 
  
