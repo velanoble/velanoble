@@ -1,11 +1,8 @@
-I'm Vela. An artist and hobbyist coder. 
+I'm Vela. An artist and  hobbyist coder. 
 
-I have an interest in game dev, web dev, all sorta cool things.
+I enjoy goofing around in web and game dev, but the longest 'project' I've had is my artsy portfolio website <a href="https://velanoble.com">velanoble.com</a> which is an ever changing project, and I like it that way. 
 
-Yes I get it, my art is better than my code, but I love to try new things. Stop gatekeeping people from trying new things. 
- 
+I'm also trying to learn new things in order to make an app idea that is very close to my heart. 
+
 If you have an inquiry, just contact me through my site.
-
-My smaller games are also [on my site](https://velanoble.com/) but most are on Itch.io instead.
-
 <a href="https://velanoble.com/info.html#links"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif" alt="vela tinyban"></a>
