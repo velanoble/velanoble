@@ -1,16 +1,13 @@
 I'm Vela, an artist, comic maker and hobbyist coder.
 
 I made my own fantasy/adventure/memoir webcomic site from scratch at <a href="https://lostmybootsoutwandering.com/">Lost My Boots Out Wandering</a>. 
-
-It is my pride and joy to update that site. I drop new chapters on the 1st Tuesday of the month 6pm (ACST).
+I update it with new chapters on the 1st Tuesday of the month 6pm (ACST).
 
 I also have developed my own main artsy portfolio website at <a href="https://velanoble.com">velanoble.com</a>.
 
 Everything I have learnt about web stuff started with my techy dad who helped me figure out how to launch my portfolio site, but due to my own relentless curosity for learning things for myself, I improved in my own time.
 
 Honestly, I had failed with gamedev a lot before realising how webdev suits my artistic practice a lot more.
-
-Therefore, I launched my webcomic site entirely by myself. (super proud, not gonna lie)
 
 If you have an inquiry, just contact me through my site.
 <a href="https://velanoble.com/"><img src="https://velanoble.com/art/comics/img/wandering_banner01.gif" alt="vela tinyban"></a>
