@@ -1,7 +1,7 @@
 I'm Vela, a comic maker and hobbyist coder.
 
 I made my own fantasy/adventure/memoir webcomic site from scratch at <a href="https://lostmybootsoutwandering.com/">Lost My Boots Out Wandering</a>. 
-I update it with new chapters on the 1st Tuesday of the month around 8pm (ACST).
+I update it with new chapters on the 1st Tuesday of the month (ACST).
 
 I also have developed my own main artsy portfolio website at <a href="https://velanoble.com">velanoble.com</a>.
 
